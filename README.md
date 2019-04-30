@@ -1,4 +1,4 @@
-# sc2-coop-enemies-predictor
+# SC2 Co-op Enemies Predictor
 
 ## Project setup
 ```
